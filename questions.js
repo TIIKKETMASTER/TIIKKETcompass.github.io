@@ -6,6 +6,9 @@ questions =  [
     {"id": 9, "question": "A government that provides for everyone is an inherently good idea.", "effects": {"right": -1}},
     {"id": 10, "question": "As a society, we should work to fight inequality.", "effects": {"right": -1}},
     {"id": 11, "question": "Land should not be a commodity to be bought and sold.", "effects": {"right": -1}},
+
+
+    
     {"id": 15, "question": "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.", "effects": {"auth": 1}},
     {"id": 45, "question": "Multiculturalism is bad.", "effects": {"prog": -1}}
 ];
