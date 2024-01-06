@@ -7,8 +7,9 @@ questions =  [
     {"id": 10, "question": "As a society, we should work to fight inequality.", "effects": {"right": -1}},
     {"id": 11, "question": "Land should not be a commodity to be bought and sold.", "effects": {"right": -1}},
     {"id": 12, "question": "In a capitalist mode of production, welfare should be distributed financially.", "effects": {"right": -1}},
-
+    {"id": 13, "question": "We have a duty to serve our collective.", "effects": {"right": -1}},
+    {"id": 13, "question": "Markets are the best way to allocate resources.", "effects": {"right": 1}},
     
     {"id": 15, "question": "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.", "effects": {"auth": 1}},
-    {"id": 45, "question": "Multiculturalism is bad.", "effects": {"prog": -1}}
+    {"id": 45, "question": "Family values are sacred and should be protected.", "effects": {"prog": -1}}
 ];
