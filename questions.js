@@ -12,5 +12,5 @@ questions =  [
     {"id": 0, "question": "There is no such thing as individualism.", "effects": {"auth": 1}},
     {"id": 0, "question": "The state, if it must exist, should be minimized to only bare functions.", "effects": {"auth": -1}},
     {"id": 0, "question": "Family values are sacred and should be protected.", "effects": {"prog": -1}},
-     {"id": 0, "question": "Conformity is a value that should be upheld.", "effects": {"prog": -1}},
+     {"id": 0, "question": "Conformity is a value that should be upheld.", "effects": {"prog": -1}}
 ];
