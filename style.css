@@ -87,7 +87,7 @@ a {
     min-width: 500pt;
     text-align: center;
     text-decoration: none;
-    display: block;
+    display: inline-block;
     font-size: 24pt;
     margin: -2px auto;
     cursor: pointer;
@@ -104,7 +104,7 @@ a {
     min-width: 500pt;
     text-align: center;
     text-decoration: none;
-    display: block;
+    display: inline-block;
     font-size: 24pt;
     margin: -2px auto;
     cursor: pointer;
@@ -144,7 +144,7 @@ img.center {
     min-width: 500pt;
     text-align: center;
     text-decoration: none;
-    display: block;
+    display: inline-block;
     font-size: 24pt;
     margin: -2px auto;
     cursor: pointer;
@@ -163,7 +163,7 @@ img.center {
     min-width: 100pt;
     text-align: center;
     text-decoration: none;
-    display: block;
+    display: inline-block;
     font-size: 18pt;
     margin: -2px auto;
     cursor: pointer;
@@ -186,7 +186,7 @@ img.center {
     min-width: 500pt;
     text-align: center;
     text-decoration: none;
-    display: block;
+    display: inline-block;
     font-size: 24pt;
     margin: -2px auto;
     cursor: not-allowed;
@@ -263,8 +263,4 @@ span.weight-300 {
 		width: auto;
 		font-size: 1.75em;
     }
-}
-
-button {
-    display: inline-block;
 }
