@@ -264,3 +264,7 @@ span.weight-300 {
 		font-size: 1.75em;
     }
 }
+
+button {
+    display: inline-block;
+}
