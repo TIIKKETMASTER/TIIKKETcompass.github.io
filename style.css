@@ -87,7 +87,7 @@ a {
     min-width: 500pt;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: block;
     font-size: 24pt;
     margin: -2px auto;
     cursor: pointer;
@@ -104,7 +104,7 @@ a {
     min-width: 500pt;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: block;
     font-size: 24pt;
     margin: -2px auto;
     cursor: pointer;
@@ -140,7 +140,7 @@ img.center {
     border-radius: 8pt;
     color: white;
     padding: 8pt;
-    width: 50%;
+    width: 10vmax;
     min-width: 500pt;
     text-align: center;
     text-decoration: none;
@@ -163,7 +163,7 @@ img.center {
     min-width: 100pt;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: block;
     font-size: 18pt;
     margin: -2px auto;
     cursor: pointer;
@@ -186,7 +186,7 @@ img.center {
     min-width: 500pt;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: block;
     font-size: 24pt;
     margin: -2px auto;
     cursor: not-allowed;
@@ -196,7 +196,7 @@ div.text-wrapper {
     font-size: 36pt;
     line-height: 36pt;
     color: #222222;
-    display: inline-block;
+    display: block;
 }
 span.weight-300 {
     font-weight: 300;
