@@ -144,7 +144,7 @@ img.center {
     min-width: 70;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: inline;
     font-size: 20pt;
     margin: -2px auto;
     cursor: pointer;
@@ -160,7 +160,7 @@ img.center {
     color: white;
     padding: 8pt;
     width: 10%;
-    min-width: 100pt;
+    min-width: 70pt;
     text-align: center;
     text-decoration: none;
     display: block;
