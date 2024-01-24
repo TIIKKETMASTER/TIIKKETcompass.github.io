@@ -34,7 +34,7 @@ questions =  [
     {"id": 32, "question": "Bigotry should be opposed at every turn.", "effects": {"prog": 1}},
     {"id": 33, "question": "There is no point in conserving cultural norms.", "effects": {"prog": 1}},
     {"id": 34, "question": "Tradition is antithetical to reason.", "effects": {"prog": 1}},
-    {"id": 34, "question": "Culture does not have inherent value.", "effects": {"prog": 1}},
-    {"id": 34, "question": "People should be able to diverge from social expectation.", "effects": {"prog": 1}},
-     {"id": 35, "question": "We should get rid of oppressive traditions", "effects": {"prog": 1}}
+    {"id": 35, "question": "Culture does not have inherent value.", "effects": {"prog": 1}},
+    {"id": 36, "question": "People should be able to diverge from social expectation.", "effects": {"prog": 1}},
+     {"id": 37, "question": "We should get rid of oppressive traditions", "effects": {"prog": 1}}
 ];
