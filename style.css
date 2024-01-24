@@ -141,7 +141,7 @@ img.center {
     color: white;
     padding: 8pt;
     width: 10vmax;
-    min-width: 100pt;
+    min-width: 70;
     text-align: center;
     text-decoration: none;
     display: inline-block;
