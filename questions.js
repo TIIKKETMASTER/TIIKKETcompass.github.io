@@ -24,7 +24,7 @@ questions =  [
     {"id": 22, "question": "The state should permeate all facets of society.", "effects": {"auth": 1}},
     {"id": 23, "question": "Respect for authority is of utmost importance.", "effects": {"auth": 1}},
     {"id": 24, "question": "The state, if it must exist, should be minimized to only bare functions.", "effects": {"auth": -1}},
-    {"id": 25, "question": "Order is vital for a functioning society.", "effects": {"auth": -1}},
+    {"id": 25, "question": "Order is vital for a functioning society.", "effects": {"auth": 1}},
     {"id": 26, "question": "Your right to swing your arms ends where another man's nose begins.", "effects": {"auth": -1}},
     {"id": 27, "question": "The state has its very origins in coercive aggression.", "effects": {"auth": -1}},
     {"id": 28, "question": "Conformity is a value that should be upheld.", "effects": {"prog": -1}},
