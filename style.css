@@ -1,5 +1,5 @@
 html {
-    background-color: #bbbbbb;
+    background-color: #003763; /* gradient, orange on the left and cyan on the right */
     padding: 0px;
 }
 body {
@@ -7,11 +7,11 @@ body {
     min-height: calc(100vh - 4em);
     margin: 0 auto;
     padding: 2em;
-    background-color: #dddddd;
-    border-color: #eeeeee;
+    background-color: #b5b5b5;
+    border-color: #000000;
     border-left-style: solid;
     border-right-style: solid;
-    border-width: 20px;
+    border-width: 10px;
 }
 p {
     color: #444444;
