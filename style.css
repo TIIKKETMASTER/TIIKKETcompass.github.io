@@ -143,8 +143,6 @@ img.center {
     width: 10vmax;
     min-width: 70;
     text-align: center;
-    justify-content: center; /* added */
-    align-items: center; /* added */
     text-decoration: none;
     display: inline;
     font-size: 20pt;
