@@ -1,5 +1,5 @@
 html {
-    background-color: linear-gradient(to right, #f71818, #3ffff8); /* gradient, red on the left and cyan on the right */
+    background-color: linear-gradient(to right, #f71818, #3ffff8)!important; /* gradient, red on the left and cyan on the right */
     padding: 0px;
 }
 body {
