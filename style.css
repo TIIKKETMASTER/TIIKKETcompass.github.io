@@ -40,6 +40,7 @@ p.question {
     min-height: 144pt;
     background-color: #0e0e0e;
     padding: 16pt;
+    border: 4px solid #000000;
     border-radius: 16pt;
     border-color: #000000;
     font-size: 36pt;
@@ -283,7 +284,7 @@ p.value {
     margin-bottom: 22px;
     text-indent: -16pt;
     margin-left: 20pt;
-    font-size: 24pt;
+    font-size: 30pt;
     line-height: 2.11666656px;
     letter-spacing: 0.03em;
     font: 'Palatino';
@@ -300,7 +301,7 @@ p.axis_name {
     margin-top: 50px;
     width:200px;
     color: #ffffff;
-    font-size: 19pt;
+    font-size: 20pt;
     font: 'Palatino';
 }
 
