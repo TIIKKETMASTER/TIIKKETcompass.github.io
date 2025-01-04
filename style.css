@@ -33,7 +33,7 @@ p.value-description {
 p.question {
     margin: 16pt auto;
     color: #eeeeee;
-    font: 'Palatino';
+    font: 'Palentino';
     font-weight: normal;
     width: 70%;
     min-width: 500pt;
@@ -52,7 +52,7 @@ p.question {
 }
 h1 {
     color: #eeeeee;
-    font: 'Palatino';
+    font: 'Palentino';
     font-size: 72pt;
     text-align: center;
     line-height: 72pt;
@@ -64,7 +64,7 @@ h1 {
 }
 h2 {
     color: #ffffff;
-    font: 'Palatino';
+    font: 'Palentino';
     font-size: 36pt;
     line-height: 36pt;
     margin-top: 12pt;
@@ -72,7 +72,7 @@ h2 {
 }
 h3 {
     color: #ffffff;
-    font: 'Palatino';
+    font: 'Palentino';
     font-size: 28pt;
     line-height: 28pt;
     margin-top: 12pt;
@@ -88,7 +88,7 @@ a {
 
 .selection {
     background-color: #4caf50;
-    font: 'Palatino';
+    font: 'Palentino';
     border: none;
     border-radius: 8pt;
     color: white;
@@ -105,7 +105,7 @@ a {
 
 .num_input {
     background-color: #2196f3;
-    font: 'Palatino';
+    font: 'Palentino';
     border: none;
     border-radius: 8pt;
     color: white;
@@ -122,7 +122,7 @@ a {
 
 .text_input {
     background-color: #2196f3;
-    font: 'Palatino';
+    font: 'Palentino';
     border: none;
     border-radius: 8pt;
     color: white;
@@ -145,7 +145,7 @@ img.center {
 }
 .button {
     background-color: #2196f3;
-    font: 'Palatino';
+    font: 'Palentino';
     border: none;
     border-radius: 4pt;
     color: white;
@@ -167,7 +167,7 @@ img.center {
 }
 .largebutton {
     background-color: #2196f3;
-    font: 'Palatino';
+    font: 'Palentino';
     border: none;
     border-radius: 4pt;
     color: #ffffff;
@@ -189,7 +189,7 @@ img.center {
 .largebuttonlink {
     display:inline-block;
     background-color:#333333;
-    font: 'Palatino';
+    font: 'Palentino';
     border: 8px solid #000000;
     border-radius: 28pt;
     color: #eeeeee;
@@ -210,7 +210,7 @@ img.center {
 }
 .small_button, .small_button_off {
     background-color: #333;
-    font: 'Palatino';
+    font: 'Palentino';
     border: none;
     border-radius: 8pt;
     color: white;
@@ -242,7 +242,7 @@ box-shadow: 2px 3px 7px rgba(10, 10, 10, 0.6);
 
 .button:disabled {
     background-color: #ddd;
-    font: 'Palatino';
+    font: 'Palentino';
     border: 2px solid #888;
     border-radius: 8pt;
     color: #888;
@@ -258,7 +258,7 @@ box-shadow: 2px 3px 7px rgba(10, 10, 10, 0.6);
     transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
 }
 div.text-wrapper {
-    font: 'Palatino';
+    font: 'Palentino';
     font-size: 36pt;
     line-height: 36pt;
     color: #222222;
@@ -311,7 +311,7 @@ p.value {
     font-size: 30pt;
     line-height: 2.11666656px;
     letter-spacing: 0.03em;
-    font: 'Palatino';
+    font: 'Palentino';
 }
 div.explanation_axis {
     width: 50%;
@@ -326,7 +326,7 @@ p.axis_name {
     width:200px;
     color: #ffffff;
     font-size: 20pt;
-    font: 'Palatino';
+    font: 'Palentino';
 }
 div.credleft{
     vertical-align: top;
@@ -383,10 +383,12 @@ div.credright{
 
 .subtext {
     text-align: left;
+    font: 'Palentino';
 }
 
 .subtext h2 {
     text-align: center;
+    font: 'Palentino';
     margin: 0;
     font-size: 24pt;
 }
@@ -394,6 +396,7 @@ div.credright{
 .subtext p {
     margin: 5px 0 0;
     font-size: 18pt;
+    font: 'Palentino';
     color: #bdbdbd;
 }
 
@@ -438,7 +441,7 @@ div.credright{
 
 	.svgHeader {
 		color: #222222;
-        font: 'Palatino';
+        font: 'Palentino';
 		text-align: center;
 		margin-top: 0pt;
 		margin-bottom: 0pt;
