@@ -11,7 +11,7 @@ body {
     border-color: #000000;
     border-left-style: solid;
     border-right-style: solid;
-    border-width: 10px;
+    border-width: 15px;
 }
 p {
     color: #eeeeee;
@@ -158,7 +158,7 @@ img.center {
     display: inline;
     font-size: 20pt;
     margin: -2px auto;
-    transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+    transition: transform 0.5s ease, background-color 0.5s ease, box-shadow 0.5s ease;
     cursor: pointer;
 }
 .button:hover {
@@ -289,6 +289,10 @@ div.pararight{
 .spacer {
     display: flex;
 }
+p.blurb-text {
+    text-align: center;
+    max-width: 600px;
+}
 p.value {
     margin-top: 22px;
     margin-bottom: 22px;
@@ -300,11 +304,11 @@ p.value {
     font: 'Palatino';
 }
 div.explanation_axis {
-    width: 20.9%;
+    width: 50%;
     vertical-align: top;
 }
 .arrow {
-    width: 60%;
+    width: 50%;
     height: auto;
 }
 p.axis_name {
