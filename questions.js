@@ -28,5 +28,7 @@ questions =  [
     {"id": 26, "question": "The government should not intervene in the actions between two consenting individuals.", "effects": {"auth": -2}}/* 2x */,
     {"id": 27, "question": "The government should be used to incentivize people towards or away from certain actions.", "effects": {"auth": 1}},
     {"id": 28, "question": "Economic class systems are divisive.", "effects": {"right": 1}},
-    {"id": 29, "question": "Questions of law should be defined by who owns property.", "effects": {"right": 1, "auth": -1}}
+    {"id": 29, "question": "Society was better off before the industrial revolution.", "effects": {"prog": -1}},
+    {"id": 30, "question": "Political systems of the past were better than they are now.", "effects": {"prog": -1}},
+    {"id": 31, "question": "Questions of law should be defined by who owns property.", "effects": {"right": 1, "auth": -1}}
 ];
