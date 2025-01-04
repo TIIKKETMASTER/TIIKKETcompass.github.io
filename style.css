@@ -16,8 +16,8 @@ body {
 p {
     color: #eeeeee;
     font-family: 'Roboto', sans-serif;
-    font-size: 16pt;
-    line-height: 1;
+    font-size: 20pt;
+    line-height: 1.5;
     margin: 4pt;
 }
 a{
@@ -402,7 +402,7 @@ div.credright{
 
 .tooltip {
     position: relative;
-    display: inline-block;
+    display: inline;
     border-bottom: 1px dotted black;
   }
   

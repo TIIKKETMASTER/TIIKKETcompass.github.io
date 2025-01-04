@@ -18,7 +18,7 @@ questions =  [
     {"id": 16, "question": "Economic inequality is not as bad as people say it is.", "effects": {"right": 1}},
     {"id": 17, "question": "The government should intervene in the economy whenever needed.", "effects": {"right": -1}},
     {"id": 18, "question": "Local communities and governments are better than large, centralized states.", "effects": {"auth": -1}},
-    {"id": 19, "question": "Cooperative business models are preferable to hierarchical ones.", "effects": {"right": -1}},
+    {"id": 19, "question": "Cooperative and democratic workplace models are preferable to hierarchical ones.", "effects": {"right": -1}},
     {"id": 20, "question": "The welfare state should be abolished and replaced with voluntary charitable organizations.", "effects": {"right": 1}},
     {"id": 21, "question": "Selfishness is human nature, and should be embraced.", "effects": {"right": 1}},
     {"id": 22, "question": "We should prevent free markets on dangerous goods like drugs, weapons, and harmful materials.", "effects": {"right": -1}},
@@ -32,6 +32,6 @@ questions =  [
     {"id": 30, "question": "Political systems of the past were better than they are now.", "effects": {"prog": -1}},
     {"id": 31, "question": "Familial and societal values are sacred and should be protected.", "effects": {"prog": -1}},
     {"id": 32, "question": "Tradition is antithetical to reason.", "effects": {"prog": 1}},
-    {"id": 33, "question": "Competitive markets lead to innovative productive forces.", "effects": {"right": 1}},
+    {"id": 33, "question": "Competitive economies are preferable to equity-treated ones.", "effects": {"right": 1}},
     {"id": 34, "question": "Questions of law should be defined by who owns property.", "effects": {"right": 1, "auth": -1}}
 ];
