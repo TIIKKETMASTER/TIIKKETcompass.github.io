@@ -1,4 +1,6 @@
 html {
+    scrollbar-width: thin;
+    scrollbar-color: #bbbbbb #1d1d1d;
     background: linear-gradient(to right, #8b0e0e, #249490); /* gradient, red on the left and cyan on the right */
     padding: 0px;
 }
