@@ -12,8 +12,8 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:400,700" rel="stylesheet">
     <link href='style.css' rel='stylesheet' type='text/css'>
     <title>TIIKKETcompass</title>
-    <link rel="icon" type="x-icon" href="icon.png">
-    <link rel="shortcut icon" type="x-icon" href="icon.png">
+    <link rel="icon" type="x-icon" href="assets/icon.png">
+    <link rel="shortcut icon" type="x-icon" href="assets/icon.png">
     <meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -44,12 +44,12 @@
             </div>
             <div class="explanation_axis">
                 <p class="axis_name">Economic</p>
-                <img class="arrow" src="double_arrow.svg"></img>
+                <img class="arrow" src="assets/double_arrow.svg" width="150" height="150"></img>
             </div>
             <div class="explanation_blurb_right">
                 <p class="value"><b style="color:#3ffff8;">Propertarian</b></p>
                 <p class="blurb-text">
-                    Those with higher Propertarian scores believe the economy should be disbributed via fair claims. They tend to support lower taxes, privatization, deregulation, and laissez-faire capitalism.
+                    Those with higher Propertarian scores believe the economy should be distributed via fair claims. They tend to support lower taxes, privatization, deregulation, and laissez-faire capitalism.
                 </p>
             </div>
         </div>
@@ -57,12 +57,12 @@
             <div class="explanation_blurb_left">
                 <p class="value"><b style="color:#a2ff3f;">Libertarian</b></p>
                 <p class="blurb-text">
-                    Those with higher Libertarian scores believe coercive hierarchies cause nothing but misery and compulsion. They tend to support localism, small government, limited state intervention, and autonomy.
+                    Those with higher Libertarian scores believe coercive hierarchies cause nothing but misery and compulsion. They tend to support localism, limited state intervention, and personal autonomy.
                 </p>
             </div>
             <div class="explanation_axis">
                 <p class="axis_name">Civic</p>
-                <img class="arrow" src="double_arrow.svg"></img>
+                <img class="arrow" src="assets/double_arrow.svg" width="150" height="150"></img>
             </div>
             <div class="explanation_blurb_right">
                 <p class="value"><b style="color:#ff47ff;">Authoritarian</b></p>
@@ -80,7 +80,7 @@
             </div>
             <div class="explanation_axis">
                 <p class="axis_name">Cultural</p>
-                <img class="arrow" src="double_arrow.svg"></img>
+                <img class="arrow" src="assets/double_arrow.svg" width="150" height="150"></img>
             </div>
             <div class="explanation_blurb_right">
                 <p class="value"><b style="color:#1b11b1;">Conservative</b></p>
@@ -94,7 +94,36 @@
     </div>
         <br><br>
     <h2>Credits</h2><br>
-    <p><button class="largebuttonlink" onclick="location.href='results.html?prog=10.00&auth=-10.00&right=10.00';">TIIKKETMASTER</button></p>
+    <p><div class="container"> 
+        <div class="buttoncredit">
+            <img src="tiikketpfp.png" alt="tiikketpfp" class="profile"> 
+            <div class="subtext">
+                <a href="results.html?right=9.57&auth=-2.77&prog=3.35" style="text-decoration:none">
+                <h2>TIIKKETMASTER</h2>
+                <p>Project leader, design and code</p>
+            </div>
+        </a>
+        </div>
+		
+        <div class="buttoncredit">
+            <img src="quarkpfp.png" alt="quarkpfp" class="profile">
+            <div class="subtext">
+                <a href="results.html?right=7.50&auth=3.32&prog=8.30" style="text-decoration:none">
+                <h2>Quark88</h2>
+                <p>Code help</p>
+            </div>
+        </a>
+        </div>
+        <div class="buttoncredit">
+            <img href="link lol"  src="maripfp.png" alt="maripfp" class="profile">
+            <div class="subtext">
+                <a href="some link here" style="text-decoration:none">
+                <h2>Marvelis08</h2>
+                <p>Code and questions help</p>
+            </div>
+        </a>
+        </div>
+    </div></p>
 </center>
     <script type="application/javascript" src="questions.js"></script>
     <script type="text/javascript">
@@ -113,7 +142,7 @@
 
                 document.getElementById("banner").src = c.toDataURL();
             }
-            background.src = "./compass.png";
+            background.src = "./assets/compass.png";
         }
     </script>
 </body>
