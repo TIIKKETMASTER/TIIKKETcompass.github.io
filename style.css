@@ -271,16 +271,21 @@ span.weight-300 {
     font-weight: 300;
 }
 #banner {
-    border-color: #000000;
+    border-color: #181818;
     border-style: solid;
-    border-width: 2px;
-    border-radius: 8pt;
+    border-width: 4px;
+    border-radius: 20pt;
     display: block;
     margin: 8pt;
     margin-left: auto;
     margin-right: auto;
     max-width: 50%;
 	min-width: 500pt;
+    transition: transform 0.5s ease, background-color 0.5s ease, box-shadow 0.5s ease;
+}
+#banner:hover {
+    transform: scale(1.08);
+    box-shadow: 2px 3px 6px #0e0e0e;
 }
 div.paraleft{
     vertical-align: top;
