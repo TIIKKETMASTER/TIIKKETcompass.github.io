@@ -433,7 +433,7 @@ div.credright{
     visibility: visible;
   }
 
-@media screen and (orientation:portrait) {
+  @media only screen and (max-width: 800px) {
 	body {
 		width: auto !important;
 		border-width: 0px !important;  
@@ -446,16 +446,6 @@ div.credright{
     #svgHeader {
 		display: block !important;
     }
-
-	.svgHeader {
-		color: #222222;
-        font: 'Palentino';
-		text-align: center;
-		margin-top: 0pt;
-		margin-bottom: 0pt;
-		font-weight: bold;
-        text-anchor: middle;
-	}
 	
 	#banner {
 		min-width: 0px;
@@ -479,9 +469,25 @@ div.credright{
         min-height: 224px !important;
         min-width: 0px;
 		max-width: 100%;
-        border-radius: 10px;
-        border-color: #000000;
 		width: auto;
 		font-size: 1.75em;
     }
+    
+.button {
+    background-color: #2196f3;
+    font: 'Palentino';
+    border: none;
+    border-radius: 4pt;
+    color: white;
+    padding: 8pt;
+    width: 10%;
+    height:55pt;
+    min-width: 5;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 20pt;
+    margin: -2px auto;
+    transition: none
+}
 }
